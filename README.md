@@ -1,8 +1,3 @@
 # FE
-Feature Engineering
-Missing Values
-handling categorical values
-Standarization
-feature selection
-Outliers
-Handling imbalanced dataset.
+
+This is a description of the Feature Engineering process. It covers missing values, handling categorical values, standardization, feature selection, outliers, and handling imbalanced datasets.
